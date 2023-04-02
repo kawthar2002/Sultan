@@ -1,4 +1,5 @@
 import { Dispatch, SetStateAction } from 'react';
+import json from '../mock_api.json';
 
 export const isNill = (value: unknown) => {
   return value === null || value === undefined;
@@ -28,10 +29,7 @@ export const fetchOne = async (
   id: number,
   setState: Dispatch<SetStateAction<Good | undefined>>
 ): Promise<void> => {
-  const data = await fetch('../mock_api.json');
-  let json = await data.json();
-  json = await json;
-  const item: Good = json.goods.find((good: Good) => good?.id === id);
+  const item = (json.goods as Good[]).find((good: Good) => good?.id === id);
 
   setState(item);
 };
@@ -39,9 +37,7 @@ export const fetchOne = async (
 export const fetchMany = async (
   setState: Dispatch<SetStateAction<Good[]>>
 ): Promise<void> => {
-  const data = await fetch('../mock_api.json');
-  const json = await data.json();
-  setState(json?.goods ?? []);
+  setState((json?.goods as Good[]) ?? []);
 };
 
 export const sortTypes = [
