@@ -1,0 +1,345 @@
+{
+  "goods": [
+    {
+      "id": 1,
+      "img_url": "https://basket-10.wb.ru/vol1334/part133469/133469155/images/big/1.jpg",
+      "name": "Скраб",
+      "size": {
+        "unit": "г",
+        "amount": 300
+      },
+      "barcode": 4604049097548,
+      "manufacturer": "wildberries",
+      "brand": "ИзЧувашии",
+      "description": "Скраб для тела антицеллюлитный кофейный",
+      "price": {
+        "currency": "₽",
+        "amount": 335
+      },
+      "care_types": ["body", "hands", "feet"]
+    },
+    {
+      "id": 2,
+      "img_url": "https://basket-10.wb.ru/vol1390/part139024/139024374/images/big/1.jpg",
+      "name": "Lonstin",
+      "size": {
+        "unit": "мл",
+        "amount": 130
+      },
+      "barcode": 4604049097548,
+      "manufacturer": "Lonstin Cosmetics",
+      "brand": "Lonstin",
+      "description": "Средство для снятия лака без ацетона",
+      "price": {
+        "currency": "₽",
+        "amount": 179
+      },
+      "care_types": ["hands"]
+    },
+    {
+      "id": 3,
+      "img_url": "https://basket-01.wb.ru/vol91/part9186/9186771/images/big/1.jpg",
+      "name": "Гель для душа женский и мужской Milana Кокос",
+      "size": {
+        "unit": "мл",
+        "amount": 750
+      },
+      "barcode": 4604049097548,
+      "manufacturer": "GRASS",
+      "brand": "GRASS",
+      "description": "Натуральный увлажняющий гель для душа женский Милана",
+      "price": {
+        "currency": "₽",
+        "amount": 359
+      },
+      "care_types": ["body", "hands", "face", "feet"]
+    },
+    {
+      "id": 4,
+      "img_url": "https://basket-01.wb.ru/vol106/part10685/10685721/images/big/2.jpg",
+      "name": "Гель для душа Milana",
+      "size": {
+        "unit": "г",
+        "amount": 730
+      },
+      "barcode": 4604049097548,
+      "manufacturer": "Grass",
+      "brand": "Milana",
+      "description": "",
+      "price": {
+        "currency": "₽",
+        "amount": 359
+      },
+      "care_types": ["body", "hands", "feet", "face"]
+    },
+    {
+      "id": 5,
+      "img_url": "https://basket-10.wb.ru/vol1346/part134614/134614151/images/big/1.jpg",
+      "name": "Омолаживающая и увлажняющая маска для лица",
+      "size": {
+        "unit": "мл",
+        "amount": 80
+      },
+      "barcode": 4604049097548,
+      "manufacturer": "Seauty",
+      "brand": "Seauty",
+      "description": "Омолаживающая и увлажняющая маска для лица",
+      "price": {
+        "currency": "₽",
+        "amount": 400
+      },
+      "care_types": ["body", "face"]
+    },
+    {
+      "id": 6,
+      "img_url": "https://basket-02.wb.ru/vol161/part16144/16144458/images/c516x688/1.jpg",
+      "name": "KEYCLEAR",
+      "size": {
+        "unit": "г",
+        "amount": 120
+      },
+      "barcode": 4604049097548,
+      "manufacturer": "Россия",
+      "brand": "KEYCLEAR",
+      "description": "Крем сыворотка для сужения пор постакне и рубцов на коже",
+      "price": {
+        "currency": "₽",
+        "amount": 2308
+      },
+      "care_types": ["face"]
+    },
+    {
+      "id": 7,
+      "img_url": "https://basket-10.wb.ru/vol1498/part149837/149837664/images/big/1.jpg",
+      "name": "Rorec Fresh Mineral Powder",
+      "size": {
+        "unit": "г",
+        "amount": 50
+      },
+      "barcode": 4604049097548,
+      "manufacturer": "CosmeticsMaster",
+      "brand": "CosmeticsMaster",
+      "description": "Пудра минеральная рассыпчатая прозрачная пудра для лица",
+      "price": {
+        "currency": "₽",
+        "amount": 221
+      },
+      "care_types": ["face"]
+    },
+    {
+      "id": 8,
+      "img_url": "https://basket-06.wb.ru/vol1050/part105096/105096143/images/big/1.jpg",
+      "name": "КАМЕЙ",
+      "size": {
+        "unit": "г",
+        "amount": 1550
+      },
+      "barcode": 4604049097548,
+      "manufacturer": "CAMAY",
+      "brand": "CAMAY",
+      "description": "гель для душа",
+      "price": {
+        "currency": "₽",
+        "amount": 981
+      },
+      "care_types": ["body"]
+    },
+    {
+      "id": 9,
+      "img_url": "https://basket-07.wb.ru/vol1104/part110425/110425660/images/big/1.jpg",
+      "name": "Kerasys",
+      "size": {
+        "unit": "мл",
+        "amount": 450
+      },
+      "barcode": 4604049097548,
+      "manufacturer": "Kerasys",
+      "brand": "Kerasys",
+      "description": "Vaseline Double Moisture Lotion",
+      "price": {
+        "currency": "₽",
+        "amount": 856
+      },
+      "care_types": ["body", "face", "hands", "feet"]
+    },
+    {
+      "id": 10,
+      "img_url": "https://basket-05.wb.ru/vol999/part99955/99955918/images/big/2.jpg",
+      "name": "beauty cosmos",
+      "size": {
+        "unit": "г",
+        "amount": 200
+      },
+      "barcode": 4604049097548,
+      "manufacturer": "Китай",
+      "brand": "Victoria's Secret",
+      "description": "Шимер для тела парфюмированный",
+      "price": {
+        "currency": "₽",
+        "amount": 351
+      },
+      "care_types": ["body"]
+    },
+    {
+      "id": 11,
+      "img_url": "https://basket-03.wb.ru/vol399/part39973/39973778/images/big/1.jpg",
+      "name": "BearsBeard",
+      "size": {
+        "unit": "г",
+        "amount": 190
+      },
+      "barcode": 4604049097548,
+      "manufacturer": "BearsBeard",
+      "brand": "BearsBeard",
+      "description": "Набор для ухода за бородой, набор для бороды подарочный",
+      "price": {
+        "currency": "₽",
+        "amount": 610
+      },
+      "care_types": ["body", "face", "hair"]
+    },
+    {
+      "id": 12,
+      "img_url": "https://basket-10.wb.ru/vol1470/part147030/147030761/images/big/1.jpg",
+      "name": "beauty cosmos",
+      "size": {
+        "unit": "мл",
+        "amount": 30
+      },
+      "barcode": 4604049097548,
+      "manufacturer": "Китай",
+      "brand": "beauty cosmos",
+      "description": "Набор кремов для рук 5 шт по 30 мл",
+      "price": {
+        "currency": "₽",
+        "amount": 2700
+      },
+      "care_types": ["body", "hands"]
+    },
+    {
+      "id": 13,
+      "img_url": "https://basket-10.wb.ru/vol1491/part149138/149138894/images/big/1.jpg",
+      "name": "JANKO",
+      "size": {
+        "unit": "мл",
+        "amount": 6
+      },
+      "barcode": 4604049097548,
+      "manufacturer": "Израиль",
+      "brand": "JANKO",
+      "description": "Zielinski & Rozen Black Pepper Amber Neroli",
+      "price": {
+        "currency": "₽",
+        "amount": 3000
+      },
+      "care_types": ["body", "hair"]
+    },
+    {
+      "id": 14,
+      "img_url": "https://basket-05.wb.ru/vol962/part96281/96281696/images/big/1.jpg",
+      "name": "Beauty Fairy Косметический набор для ухода",
+      "size": {
+        "unit": "г",
+        "amount": 250
+      },
+      "barcode": 4604049097548,
+      "manufacturer": "Китай",
+      "brand": "Beauty Fairy",
+      "description": "Косметический набор для ухода",
+      "price": {
+        "currency": "₽",
+        "amount": 604
+      },
+      "care_types": ["body", "hands", "face"]
+    },
+    {
+      "id": 15,
+      "img_url": "https://basket-03.wb.ru/vol409/part40945/40945981/images/big/1.jpg",
+      "name": "LANCOME, Бальзам 'Nutrix Royal' для тела",
+      "size": {
+        "unit": " мл",
+        "amount": 400
+      },
+      "barcode": 4604049097548,
+      "manufacturer": "Франция",
+      "brand": "LANCOME",
+      "description": "Молочко обогащенное липидами для интенсивного ухода за кожей",
+      "price": {
+        "currency": "₽",
+        "amount": 3599
+      },
+      "care_types": ["body"]
+    },
+    {
+      "id": 16,
+      "img_url": "https://basket-05.wb.ru/vol727/part72786/72786344/images/big/1.jpg",
+      "name": "МадамМур",
+      "size": {
+        "unit": "г",
+        "amount": 120
+      },
+      "barcode": 4604049097548,
+      "manufacturer": "Китай",
+      "brand": "МадамМур",
+      "description": "Пенка для умывания с массажной щеточкой",
+      "price": {
+        "currency": "₽",
+        "amount": 368
+      },
+      "care_types": ["body", "face"]
+    },
+    {
+      "id": 17,
+      "img_url": "https://basket-06.wb.ru/vol1043/part104368/104368559/images/big/1.jpg",
+      "name": "Набор Восхитительные ароматы Dei Sogni",
+      "size": {
+        "unit": "г",
+        "amount": 300
+      },
+      "barcode": 4604049097548,
+      "manufacturer": "Dei Sogni",
+      "brand": "Collistar",
+      "description": "",
+      "price": {
+        "currency": "₽",
+        "amount": 335
+      },
+      "care_types": ["body"]
+    },
+    {
+      "id": 18,
+      "img_url": "https://basket-09.wb.ru/vol1238/part123898/123898175/images/big/1.jpg",
+      "name": "Универсальный несмываемый гель алоэ вера",
+      "size": {
+        "unit": "г",
+        "amount": 150
+      },
+      "barcode": 4604049097548,
+      "manufacturer": "КОРЕЙСКАЯ КОСМЕТИКА",
+      "brand": "КОРЕЙСКАЯ КОСМЕТИКА",
+      "description": "Универсальный гель с 99% сока алоэ вера в составе убирает шелушения, успокаивает воспаления и раздражения.",
+      "price": {
+        "currency": "₽",
+        "amount": 415      },
+      "care_types": ["body", "face"]
+    },
+    {
+      "id": 19,
+      "img_url": "https://basket-05.wb.ru/vol890/part89091/89091511/images/big/1.jpg",
+      "name": "LANBENA Глиняная очищающая маска для лица",
+      "size": {
+        "unit": "г",
+        "amount": 40
+      },
+      "barcode": 4604049097548,
+      "manufacturer": "LANBENA",
+      "brand": "LANBENA",
+      "description": "Глиняная маска нового поколения с экстрактом зеленого чая.",
+      "price": {
+        "currency": "₽",
+        "amount": 94
+      },
+      "care_types": ["body", "face"]
+    }
+  ]
+}
